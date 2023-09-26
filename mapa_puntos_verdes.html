@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_4029e5a4c4b65edbb1e6a0996540962b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_4029e5a4c4b65edbb1e6a0996540962b" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_4029e5a4c4b65edbb1e6a0996540962b = L.map(
+                "map_4029e5a4c4b65edbb1e6a0996540962b",
+                {
+                    center: [-27.5, -58.8],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12.5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ebe35b6d65e655fec8fb851446c2ef2a = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+            var marker_b5aa3aea66a0031179c47e41d3f02bad = L.marker(
+                [-27.52005161881104, -58.793845805697735],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_f25670c931be08b36c0ae137fa876539 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8b22d606fae45e782d115c3f7e6cd22a = $(`<div id="html_8b22d606fae45e782d115c3f7e6cd22a" style="width: 100.0%; height: 100.0%;">DELEGACION DR. MONTAÑA</div>`)[0];
+                popup_f25670c931be08b36c0ae137fa876539.setContent(html_8b22d606fae45e782d115c3f7e6cd22a);
+            
+        
+
+        marker_b5aa3aea66a0031179c47e41d3f02bad.bindPopup(popup_f25670c931be08b36c0ae137fa876539)
+        ;
+
+        
+    
+    
+            var marker_3c2f513035821946fa4d6a6e480e7e5e = L.marker(
+                [-27.47566305777259, -58.78893028419412],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_c6a667c98d1222d88b541488cfe14c4e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e95e4ae54b3ef4a1ca353009266f1942 = $(`<div id="html_e95e4ae54b3ef4a1ca353009266f1942" style="width: 100.0%; height: 100.0%;">DELEGACION SAN GERONIMO</div>`)[0];
+                popup_c6a667c98d1222d88b541488cfe14c4e.setContent(html_e95e4ae54b3ef4a1ca353009266f1942);
+            
+        
+
+        marker_3c2f513035821946fa4d6a6e480e7e5e.bindPopup(popup_c6a667c98d1222d88b541488cfe14c4e)
+        ;
+
+        
+    
+    
+            var marker_fb385254e455a0589b57e19ebe94f883 = L.marker(
+                [-27.476731087219825, -58.8363137769374],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_726d9c5bb62bdb703aa4afbbd66e8957 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ba6d3499d6e49481dc9db9bf0407657c = $(`<div id="html_ba6d3499d6e49481dc9db9bf0407657c" style="width: 100.0%; height: 100.0%;">DELEGACION SAN MARTIN</div>`)[0];
+                popup_726d9c5bb62bdb703aa4afbbd66e8957.setContent(html_ba6d3499d6e49481dc9db9bf0407657c);
+            
+        
+
+        marker_fb385254e455a0589b57e19ebe94f883.bindPopup(popup_726d9c5bb62bdb703aa4afbbd66e8957)
+        ;
+
+        
+    
+    
+            var marker_e327f30d8fdaab688d9377ed7c0d5db3 = L.marker(
+                [-27.49041176804743, -58.78366975796349],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_56e481bc3fd5cdce9a5def401b7e706c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_770d0ed8ea42e48d5d646630b4c3786f = $(`<div id="html_770d0ed8ea42e48d5d646630b4c3786f" style="width: 100.0%; height: 100.0%;">DELEGACION 17 DE AGOSTO</div>`)[0];
+                popup_56e481bc3fd5cdce9a5def401b7e706c.setContent(html_770d0ed8ea42e48d5d646630b4c3786f);
+            
+        
+
+        marker_e327f30d8fdaab688d9377ed7c0d5db3.bindPopup(popup_56e481bc3fd5cdce9a5def401b7e706c)
+        ;
+
+        
+    
+    
+            var marker_b1290d7dfe8b1fa626dd4236987f2484 = L.marker(
+                [-27.470315242505656, -58.82228012423309],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_7eab31161e91486900a584b1aa5a5fb7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_82629902ae71e31aea9f4a09135e6771 = $(`<div id="html_82629902ae71e31aea9f4a09135e6771" style="width: 100.0%; height: 100.0%;">PLAZA LIBERTAD</div>`)[0];
+                popup_7eab31161e91486900a584b1aa5a5fb7.setContent(html_82629902ae71e31aea9f4a09135e6771);
+            
+        
+
+        marker_b1290d7dfe8b1fa626dd4236987f2484.bindPopup(popup_7eab31161e91486900a584b1aa5a5fb7)
+        ;
+
+        
+    
+    
+            var marker_797e324bf7a6d6c0dc71fac98515c4e8 = L.marker(
+                [-27.48152210536392, -58.79460661600678],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_41dc80bf609e19fbcabb0b3c7311075d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cf1c2cb00e5264eebc20cf5df61cf76e = $(`<div id="html_cf1c2cb00e5264eebc20cf5df61cf76e" style="width: 100.0%; height: 100.0%;">PLAZA SAN JOSE OBRERO</div>`)[0];
+                popup_41dc80bf609e19fbcabb0b3c7311075d.setContent(html_cf1c2cb00e5264eebc20cf5df61cf76e);
+            
+        
+
+        marker_797e324bf7a6d6c0dc71fac98515c4e8.bindPopup(popup_41dc80bf609e19fbcabb0b3c7311075d)
+        ;
+
+        
+    
+    
+            var marker_9972a8b7c097668dc0185f39da903945 = L.marker(
+                [-27.473030622554237, -58.80423417795808],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_35cf91f45b4e9516edc6be34f265bbeb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0e91f9904c84cfb9132ed582da16dd42 = $(`<div id="html_0e91f9904c84cfb9132ed582da16dd42" style="width: 100.0%; height: 100.0%;">DELEGACION MADARIAGA</div>`)[0];
+                popup_35cf91f45b4e9516edc6be34f265bbeb.setContent(html_0e91f9904c84cfb9132ed582da16dd42);
+            
+        
+
+        marker_9972a8b7c097668dc0185f39da903945.bindPopup(popup_35cf91f45b4e9516edc6be34f265bbeb)
+        ;
+
+        
+    
+    
+            var marker_affeaa5de2d66e117ffbcb80e805d0b1 = L.marker(
+                [-27.475194366905544, -58.85030726114727],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_883317422099ed2c01f0f26c62479fd2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_16a2b934eaff2be7b6023cccdef0ed5a = $(`<div id="html_16a2b934eaff2be7b6023cccdef0ed5a" style="width: 100.0%; height: 100.0%;">PLAZA GRAL. BELGRANO</div>`)[0];
+                popup_883317422099ed2c01f0f26c62479fd2.setContent(html_16a2b934eaff2be7b6023cccdef0ed5a);
+            
+        
+
+        marker_affeaa5de2d66e117ffbcb80e805d0b1.bindPopup(popup_883317422099ed2c01f0f26c62479fd2)
+        ;
+
+        
+    
+    
+            var marker_796554e2a89c229989c4615415dd02b1 = L.marker(
+                [-27.494781223758665, -58.82947012856157],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_239645dd5a0bfbc8f85a325235930739 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_71a29e30900b816d4a835d9af5bbf72d = $(`<div id="html_71a29e30900b816d4a835d9af5bbf72d" style="width: 100.0%; height: 100.0%;">DELEGACION DR. NICOLINI</div>`)[0];
+                popup_239645dd5a0bfbc8f85a325235930739.setContent(html_71a29e30900b816d4a835d9af5bbf72d);
+            
+        
+
+        marker_796554e2a89c229989c4615415dd02b1.bindPopup(popup_239645dd5a0bfbc8f85a325235930739)
+        ;
+
+        
+    
+    
+            var marker_369f28d07b862223f9812748671626f8 = L.marker(
+                [-27.51880595502494, -58.768103888054895],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_af7f080204054455918639d21dadec2b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f379320d4dc88b9c41bf68351a1f5552 = $(`<div id="html_f379320d4dc88b9c41bf68351a1f5552" style="width: 100.0%; height: 100.0%;">DESTACAMENTO B° PIRAYUI</div>`)[0];
+                popup_af7f080204054455918639d21dadec2b.setContent(html_f379320d4dc88b9c41bf68351a1f5552);
+            
+        
+
+        marker_369f28d07b862223f9812748671626f8.bindPopup(popup_af7f080204054455918639d21dadec2b)
+        ;
+
+        
+    
+    
+            var marker_32915595515504466d2043b8e740d5b9 = L.marker(
+                [-27.465631589426437, -58.84546059573796],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_c426aa6b36dcc17671a3246cca8e8583 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_54ca08aa774d566cacccea9d4ae85450 = $(`<div id="html_54ca08aa774d566cacccea9d4ae85450" style="width: 100.0%; height: 100.0%;">PARQUE CAMBA CUA</div>`)[0];
+                popup_c426aa6b36dcc17671a3246cca8e8583.setContent(html_54ca08aa774d566cacccea9d4ae85450);
+            
+        
+
+        marker_32915595515504466d2043b8e740d5b9.bindPopup(popup_c426aa6b36dcc17671a3246cca8e8583)
+        ;
+
+        
+    
+    
+            var marker_0bb3fde68645a4c05b517079ac3d1579 = L.marker(
+                [-27.478425970953413, -58.83018001097713],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_bfe090d0fbf9c1af5d443401beb53361 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c379f051956292197330d91b6bb55c23 = $(`<div id="html_c379f051956292197330d91b6bb55c23" style="width: 100.0%; height: 100.0%;">PLAZOLETA EVITA</div>`)[0];
+                popup_bfe090d0fbf9c1af5d443401beb53361.setContent(html_c379f051956292197330d91b6bb55c23);
+            
+        
+
+        marker_0bb3fde68645a4c05b517079ac3d1579.bindPopup(popup_bfe090d0fbf9c1af5d443401beb53361)
+        ;
+
+        
+    
+    
+            var marker_447a081d761a38cbdd7bd0f0b0b5eb0b = L.marker(
+                [-27.47221782912085, -58.83334318375748],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_4df6f448aea8886c2a3fd65325558b8b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d3ecd203e23ed8f3828ea9017609f17a = $(`<div id="html_d3ecd203e23ed8f3828ea9017609f17a" style="width: 100.0%; height: 100.0%;">PLAZA TORRENT </div>`)[0];
+                popup_4df6f448aea8886c2a3fd65325558b8b.setContent(html_d3ecd203e23ed8f3828ea9017609f17a);
+            
+        
+
+        marker_447a081d761a38cbdd7bd0f0b0b5eb0b.bindPopup(popup_4df6f448aea8886c2a3fd65325558b8b)
+        ;
+
+        
+    
+    
+            var marker_b54cbb45f530da32e255d03853a3983a = L.marker(
+                [-27.46039635307012, -58.82757861011181],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_1e3ede9c4b90cf3d81998b4b441fa060 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fa6e8f7d71b779a9e7702d61fd130a39 = $(`<div id="html_fa6e8f7d71b779a9e7702d61fd130a39" style="width: 100.0%; height: 100.0%;">PARQUE MITRE</div>`)[0];
+                popup_1e3ede9c4b90cf3d81998b4b441fa060.setContent(html_fa6e8f7d71b779a9e7702d61fd130a39);
+            
+        
+
+        marker_b54cbb45f530da32e255d03853a3983a.bindPopup(popup_1e3ede9c4b90cf3d81998b4b441fa060)
+        ;
+
+        
+    
+    
+            var marker_4e401206e626c4bfa8b237354851a2e3 = L.marker(
+                [-27.46714571927512, -58.837496179385056],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_e1097e238748d0d2eeb3925b7c0a6eb4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_57d585efe8375d0ada7eb651b86e3a3d = $(`<div id="html_57d585efe8375d0ada7eb651b86e3a3d" style="width: 100.0%; height: 100.0%;">PLAZA VERA</div>`)[0];
+                popup_e1097e238748d0d2eeb3925b7c0a6eb4.setContent(html_57d585efe8375d0ada7eb651b86e3a3d);
+            
+        
+
+        marker_4e401206e626c4bfa8b237354851a2e3.bindPopup(popup_e1097e238748d0d2eeb3925b7c0a6eb4)
+        ;
+
+        
+    
+    
+            var marker_d771564ea3d9a18128f34666dfad8ecf = L.marker(
+                [-27.50630022237065, -58.782065412681206],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_b753bebc9613b790167c5dac8ba87382 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5a6d18ed8ab704df9def42aef5e62df6 = $(`<div id="html_5a6d18ed8ab704df9def42aef5e62df6" style="width: 100.0%; height: 100.0%;">BARRIO PIRAYUI</div>`)[0];
+                popup_b753bebc9613b790167c5dac8ba87382.setContent(html_5a6d18ed8ab704df9def42aef5e62df6);
+            
+        
+
+        marker_d771564ea3d9a18128f34666dfad8ecf.bindPopup(popup_b753bebc9613b790167c5dac8ba87382)
+        ;
+
+        
+    
+    
+            var marker_4159271451958cc41924428ce4b87416 = L.marker(
+                [-27.489916824299616, -58.80488506779582],
+                {}
+            ).addTo(map_4029e5a4c4b65edbb1e6a0996540962b);
+        
+    
+        var popup_00f8d84873afd7e31318110911f929e2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eeac96a9d10280c8e05015b819892083 = $(`<div id="html_eeac96a9d10280c8e05015b819892083" style="width: 100.0%; height: 100.0%;">LAGUNA SECA</div>`)[0];
+                popup_00f8d84873afd7e31318110911f929e2.setContent(html_eeac96a9d10280c8e05015b819892083);
+            
+        
+
+        marker_4159271451958cc41924428ce4b87416.bindPopup(popup_00f8d84873afd7e31318110911f929e2)
+        ;
+
+        
+    
+</script>
+</html>

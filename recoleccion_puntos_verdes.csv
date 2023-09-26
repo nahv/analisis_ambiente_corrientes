@@ -1,0 +1,214 @@
+fecha,punto_verde,unidad,cantidad,kg_residuos_secos_reciclables,destino,observaciones
+2019/01/17,Evento,kg,77.96,77.96,Cooperativa Fortaleza,Festival del chamame
+2019/01/18,Evento,kg,61.718,61.718,Cooperativa Fortaleza,Festival del chamame
+2019/01/19,Evento,kg,67.014,67.014,Cooperativa Fortaleza,Festival del chamame
+2019/01/20,Evento,kg,274.392,274.392,Cooperativa Fortaleza,Festival del chamame
+2019/01/21,Evento,kg,6.1,6.1,Cooperativa Fortaleza,Festival del chamame
+2019/03/11,Evento,kg,17.128,17.128,Cooperativa Fortaleza,CORSOS
+2019/03/21,Evento,kg,26.756,26.756,Cooperativa Fortaleza,CORSOS
+2019/05/12,Evento,kg,2.785,2.785,Cooperativa Fortaleza,CORSOS
+2019/04/26,Plaza Libertad,kg,1.5,1.5,Cooperativa Fortaleza,NULL
+2019/07/19,Plaza Libertad,kg,12.5,12.5,Cooperativa Fortaleza,NULL
+2019/07/22,Santa Catalina,kg,5,5,Cooperativa Fortaleza,NULL
+2019/07/22,Plaza Libertad,kg,15,15,Cooperativa Fortaleza,NULL
+2019/07/29,Santa Catalina,kg,2,2,Cooperativa Fortaleza,NULL
+2019/07/29,Plaza Libertad,kg,20,20,Cooperativa Fortaleza,NULL
+2019/08/09,Plaza Libertad,kg,2,2,Cooperativa Fortaleza,NULL
+2019/08/12,Santa Catalina,kg,1.5,1.5,Cooperativa Fortaleza,NULL
+2019/08/12,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2019/09/02,Santa Catalina,kg,2.5,2.5,Cooperativa Fortaleza,NULL
+2019/09/02,Plaza Libertad,kg,35,35,Cooperativa Fortaleza,NULL
+2019/09/06,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2019/09/12,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2019/09/19,Santa Catalina,kg,1,1,Cooperativa Fortaleza,NULL
+2019/09/19,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2019/09/23,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/09/23,Santa Catalina,kg,1.55,1.55,Cooperativa Fortaleza,NULL
+2019/09/23,Plaza Libertad,kg,40,40,Cooperativa Fortaleza,NULL
+2019/09/23,Parque Camba Cua,kg,20,20,Cooperativa Fortaleza,NULL
+2019/09/26,Santa Catalina,kg,1.5,1.5,Cooperativa Fortaleza,NULL
+2019/09/26,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/09/27,Plaza Libertad,kg,35,35,Cooperativa Fortaleza,NULL
+2019/09/30,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2019/10/04,Parque Camba Cua,kg,20,20,Cooperativa Fortaleza,NULL
+2019/10/04,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/10/07,Santa Catalina,kg,2,2,Cooperativa Fortaleza,NULL
+2019/10/07,Plaza Libertad,kg,50,50,Cooperativa Fortaleza,NULL
+2019/10/07,Parque Camba Cua,kg,30,30,Cooperativa Fortaleza,NULL
+2019/10/11,Parque Camba Cua,kg,4,4,Cooperativa Fortaleza,NULL
+2019/10/11,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/09/30,Santa Catalina,kg,2.5,2.5,Cooperativa Fortaleza,NULL
+2019/09/30,Plaza Libertad,kg,3,3,Cooperativa Fortaleza,NULL
+2019/09/30,Parque Camba Cua,kg,5,5,Cooperativa Fortaleza,NULL
+2019/10/14,Santa Catalina,kg,1.5,1.5,Cooperativa Fortaleza,NULL
+2019/10/14,Plaza Libertad,kg,35,35,Cooperativa Fortaleza,NULL
+2019/10/14,Parque Camba Cua,kg,10,10,Cooperativa Fortaleza,NULL
+2019/10/18,Parque Camba Cua,kg,3,3,Cooperativa Fortaleza,NULL
+2019/10/18,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/10/21,Santa Catalina,kg,25,25,Cooperativa Fortaleza,NULL
+2019/10/21,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/10/21,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2019/10/25,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2019/10/25,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/10/28,Santa Catalina,kg,2,2,Cooperativa Fortaleza,NULL
+2019/10/28,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/10/28,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2019/11/01,Parque Camba Cua,kg,20,20,Cooperativa Fortaleza,NULL
+2019/11/01,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/11/04,Santa Catalina,kg,1.5,1.5,Cooperativa Fortaleza,NULL
+2019/11/04,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2019/11/11,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/11/15,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2019/11/18,Plaza Libertad,kg,46,46,Cooperativa Fortaleza,NULL
+2019/11/18,Santa Catalina,kg,3,3,Cooperativa Fortaleza,NULL
+2019/11/22,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/11/25,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/11/25,Santa Catalina,kg,45,45,Cooperativa Fortaleza,NULL
+2019/11/29,Parque Camba Cua,kg,30,30,Cooperativa Fortaleza,NULL
+2019/11/29,Plaza Libertad,kg,35,35,Cooperativa Fortaleza,NULL
+2019/12/02,Plaza Libertad,kg,136,136,Cooperativa Fortaleza,NULL
+2019/12/02,Santa Catalina,kg,3,3,Cooperativa Fortaleza,NULL
+2019/12/06,Parque Camba Cua,kg,30,30,Cooperativa Fortaleza,NULL
+2019/12/06,Plaza Libertad,kg,20,20,Cooperativa Fortaleza,NULL
+2019/12/09,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2019/12/09,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2019/12/13,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2019/12/13,Plaza Libertad,kg,20,20,Cooperativa Fortaleza,NULL
+2019/12/16,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2019/12/16,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2019/12/16,Santa Catalina,kg,1,1,Cooperativa Fortaleza,NULL
+2019/12/20,Parque Camba Cua,kg,10,10,Cooperativa Fortaleza,NULL
+2019/12/23,Plaza Torrent,kg,38,38,Cooperativa Fortaleza,NULL
+2019/12/23,Plaza Libertad,kg,35,35,Cooperativa Fortaleza,NULL
+2019/12/23,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/01/03,Plaza Torrent,kg,5,5,Cooperativa Fortaleza,NULL
+2020/01/03,Parque Camba Cua,kg,3,3,Cooperativa Fortaleza,NULL
+2020/01/03,Plaza Libertad,kg,2.5,2.5,Cooperativa Fortaleza,NULL
+2020/01/06,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2020/01/06,Plaza Torrent,kg,30,30,Cooperativa Fortaleza,NULL
+2020/01/06,Parque Camba Cua,kg,20,20,Cooperativa Fortaleza,NULL
+2020/01/06,Santa Catalina,kg,8,8,Cooperativa Fortaleza,NULL
+2020/01/10,Plaza Torrent,kg,30,30,Cooperativa Fortaleza,NULL
+2020/01/10,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/01/10,Plaza Libertad,kg,50,50,Cooperativa Fortaleza,NULL
+2020/01/13,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2020/01/13,Plaza Torrent,kg,30,30,Cooperativa Fortaleza,NULL
+2020/01/13,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/01/13,Santa Catalina,kg,10,10,Cooperativa Fortaleza,NULL
+2020/01/17,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/01/17,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/01/17,Plaza Libertad,kg,75,75,Cooperativa Fortaleza,NULL
+2020/01/18,Evento,kg,149.3,149.3,Cooperativa Fortaleza,Chamamé 2020
+2020/01/19,Evento,kg,785.8,785.8,Cooperativa Fortaleza,Chamamé 2020
+2020/01/20,Evento,kg,457.41,457.41,Cooperativa Fortaleza,Chamamé 2020
+2020/01/20,Plaza Libertad,kg,39,39,Cooperativa Fortaleza,NULL
+2020/01/20,Plaza Torrent,kg,30,30,Cooperativa Fortaleza,NULL
+2020/01/20,Parque Camba Cua,kg,21,21,Cooperativa Fortaleza,NULL
+2020/01/20,Santa Catalina,kg,13.5,13.5,Cooperativa Fortaleza,NULL
+2020/01/21,Evento,kg,291.9,291.9,Cooperativa Fortaleza,Chamamé 2020
+2020/01/22,Parque Camba Cua,kg,35,35,Cooperativa Fortaleza,NULL
+2020/01/22,Plaza Torrent,kg,30,30,Cooperativa Fortaleza,NULL
+2020/01/22,Plaza Libertad,kg,45,45,Cooperativa Fortaleza,NULL
+2020/01/23,Evento,kg,159.5,159.5,Cooperativa Fortaleza,Chamamé 2020
+2020/01/24,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/01/24,Plaza Torrent,kg,25,25,Cooperativa Fortaleza,NULL
+2020/01/24,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2020/01/24,Evento,kg,490.7,490.7,Cooperativa Fortaleza,Chamamé 2020
+2020/01/25,Evento,kg,552.2,552.2,Cooperativa Fortaleza,Chamamé 2020
+2020/01/26,Evento,kg,882.5,882.5,Cooperativa Fortaleza,Chamamé 2020
+2020/01/31,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/01/31,Plaza Torrent,kg,2,2,Cooperativa Fortaleza,NULL
+2020/01/31,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2020/01/31,Santa Catalina,kg,15,15,Cooperativa Fortaleza,NULL
+2020/02/01,Plaza Libertad,kg,30,30,Cooperativa Fortaleza,NULL
+2020/02/01,Plaza Torrent,kg,25,25,Cooperativa Fortaleza,NULL
+2020/02/01,Parque Camba Cua,kg,28,28,Cooperativa Fortaleza,NULL
+2020/02/03,Plaza Libertad,kg,35,35,Cooperativa Fortaleza,NULL
+2020/02/03,Plaza Torrent,kg,35,35,Cooperativa Fortaleza,NULL
+2020/02/03,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/02/04,Santa Catalina,kg,11,11,Cooperativa Fortaleza,NULL
+2020/02/07,Parque Camba Cua,kg,30,30,Cooperativa Fortaleza,NULL
+2020/02/07,Plaza Torrent,kg,35,35,Cooperativa Fortaleza,NULL
+2020/02/07,Plaza Libertad,kg,40,40,Cooperativa Fortaleza,NULL
+2020/02/10,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/02/10,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/02/10,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2020/02/17,Santa Catalina,kg,7,7,Cooperativa Fortaleza,NULL
+2020/02/17,Plaza Torrent,kg,14,14,Cooperativa Fortaleza,NULL
+2020/02/17,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/02/17,Plaza Libertad,kg,20,20,Cooperativa Fortaleza,NULL
+2020/02/26,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/02/26,Plaza Torrent,kg,30,30,Cooperativa Fortaleza,NULL
+2020/02/26,Plaza Torrent,kg,35,35,Cooperativa Fortaleza,NULL
+2020/02/28,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/02/28,Plaza Torrent,kg,30,30,Cooperativa Fortaleza,NULL
+2020/02/28,Plaza Libertad,kg,35,35,Cooperativa Fortaleza,NULL
+2020/04/03,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/04/03,Parque Camba Cua,kg,10,10,Cooperativa Fortaleza,NULL
+2020/04/03,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2020/05/19,NULL,kg,10,10,Cooperativa Fortaleza,NULL
+2020/05/19,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2020/05/19,Plaza Torrent,kg,3,3,Cooperativa Fortaleza,NULL
+2020/05/19,Parque Camba Cua,kg,4,4,Cooperativa Fortaleza,NULL
+2020/05/26,Plaza Libertad,kg,35,35,Cooperativa Fortaleza,NULL
+2020/05/26,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/05/26,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/06/08,Parque Camba Cua,kg,50,50,Cooperativa Fortaleza,NULL
+2020/06/08,Plaza Torrent,kg,60,60,Cooperativa Fortaleza,NULL
+2020/06/08,Plaza Libertad,kg,10,10,Cooperativa Fortaleza,NULL
+2020/06/23,NULL,kg,15,15,Cooperativa Fortaleza,NULL
+2020/06/23,Plaza Libertad,kg,3.5,3.5,Cooperativa Fortaleza,NULL
+2020/06/23,Plaza Torrent,kg,4,4,Cooperativa Fortaleza,NULL
+2020/06/23,Parque Camba Cua,kg,2,2,Cooperativa Fortaleza,NULL
+2020/07/07,Plaza Libertad,kg,2,2,Cooperativa Fortaleza,NULL
+2020/07/07,Plaza Torrent,kg,3.5,3.5,Cooperativa Fortaleza,NULL
+2020/07/07,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/07/11,Plaza Libertad,kg,20,20,Cooperativa Fortaleza,NULL
+2020/07/11,Plaza Torrent,kg,25,25,Cooperativa Fortaleza,NULL
+2020/07/11,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/07/14,Plaza Libertad,kg,15,15,Cooperativa Fortaleza,NULL
+2020/07/14,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/07/14,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/07/17,Plaza Libertad,kg,20,20,Cooperativa Fortaleza,NULL
+2020/07/17,Plaza Torrent,kg,35,35,Cooperativa Fortaleza,NULL
+2020/07/17,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/07/21,Plaza Libertad,kg,20,20,Cooperativa Fortaleza,NULL
+2020/07/21,Plaza Torrent,kg,30,30,Cooperativa Fortaleza,NULL
+2020/07/21,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/07/30,Plaza Libertad,kg,15,15,Cooperativa Fortaleza,NULL
+2020/07/30,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/07/30,Parque Camba Cua,kg,10,10,Cooperativa Fortaleza,NULL
+2020/08/08,Plaza Libertad,kg,15,15,Cooperativa Fortaleza,NULL
+2020/08/08,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/08/08,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/08/09,Plaza Libertad,kg,15,15,Cooperativa Fortaleza,NULL
+2020/08/09,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/08/09,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/08/14,Plaza Libertad,kg,15,15,Cooperativa Fortaleza,NULL
+2020/08/14,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/08/14,NULL,kg,25,25,Cooperativa Fortaleza,NULL
+2020/08/14,Parque Camba Cua,kg,30,30,Cooperativa Fortaleza,NULL
+2020/08/18,Plaza Libertad,kg,20,20,Cooperativa Fortaleza,NULL
+2020/08/18,Plaza Torrent,kg,30,30,Cooperativa Fortaleza,NULL
+2020/08/18,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/08/21,Plaza Libertad,kg,10,10,Cooperativa Fortaleza,NULL
+2020/08/21,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/08/21,Parque Camba Cua,kg,25,25,Cooperativa Fortaleza,NULL
+2020/08/23,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2020/08/23,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/08/23,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/03/28,Plaza Libertad,kg,10,10,Cooperativa Fortaleza,NULL
+2020/03/28,Plaza Torrent,kg,15,15,Cooperativa Fortaleza,NULL
+2020/03/28,Parque Camba Cua,kg,10,10,Cooperativa Fortaleza,NULL
+2020/08/30,Plaza Libertad,kg,1,1,Cooperativa Fortaleza,NULL
+2020/08/30,Plaza Torrent,kg,1.5,1.5,Cooperativa Fortaleza,NULL
+2020/08/30,Parque Camba Cua,kg,2,2,Cooperativa Fortaleza,NULL
+2020/09/06,Plaza Libertad,kg,25,25,Cooperativa Fortaleza,NULL
+2020/09/06,Plaza Torrent,kg,20,20,Cooperativa Fortaleza,NULL
+2020/09/06,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL
+2020/09/11,Plaza Libertad,kg,2.5,2.5,Cooperativa Fortaleza,NULL
+2020/09/11,Plaza Torrent,kg,2,2,Cooperativa Fortaleza,NULL
+2020/09/11,Parque Camba Cua,kg,1.5,1.5,Cooperativa Fortaleza,NULL
+2020/09/13,Plaza Libertad,kg,20,20,Cooperativa Fortaleza,NULL
+2020/09/13,Plaza Torrent,kg,25,25,Cooperativa Fortaleza,NULL
+2020/09/13,Parque Camba Cua,kg,15,15,Cooperativa Fortaleza,NULL

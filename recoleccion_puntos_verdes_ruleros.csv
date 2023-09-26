@@ -1,0 +1,294 @@
+fecha,zona,recoleccion_tipo,cantidad_domicilios,gr_residuos_secos_reciclables,kg_residuos_secos_reciclables,destino
+2018/07/23,Molina Punta,a puerta,NULL,38535,38.535,Cooperativa Fortaleza
+2018/07/27,Molina Punta,a puerta,NULL,32610,32.61,Cooperativa Fortaleza
+2018/07/30,Molina Punta,a puerta,NULL,29450,29.45,Cooperativa Fortaleza
+2018/08/06,Molina Punta,a puerta,NULL,21345,21.345,Cooperativa Fortaleza
+2018/08/07,Molina Punta,a puerta,NULL,34790,34.79,Cooperativa Fortaleza
+2018/08/10,Molina Punta,a puerta,NULL,23950,23.95,Cooperativa Fortaleza
+2018/08/13,Molina Punta,a puerta,NULL,23715,23.715,Cooperativa Fortaleza
+2018/08/22,Molina Punta,a puerta,NULL,35798,35.798,Cooperativa Fortaleza
+2018/08/24,Molina Punta,a puerta,NULL,46986,46.986,Cooperativa Fortaleza
+2018/08/31,Molina Punta,a puerta,NULL,25569,25.569,Cooperativa Fortaleza
+2018/09/03,Molina Punta,a puerta,NULL,16800,16.8,Cooperativa Fortaleza
+2018/09/07,Molina Punta,a puerta,NULL,48000,48,Cooperativa Fortaleza
+2018/09/10,Molina Punta,a puerta,NULL,25805,25.805,Cooperativa Fortaleza
+2018/09/14,Molina Punta,a puerta,NULL,34295,34.295,Cooperativa Fortaleza
+2018/09/17,Molina Punta,a puerta,NULL,32410,32.41,Cooperativa Fortaleza
+2018/09/21,Molina Punta,a puerta,NULL,31755,31.755,Cooperativa Fortaleza
+2018/10/01,Molina Punta,a puerta,NULL,17790,17.79,Cooperativa Fortaleza
+2018/10/03,Molina Punta,a puerta,NULL,22600,22.6,Cooperativa Fortaleza
+2018/10/08,Molina Punta,a puerta,NULL,26190,26.19,Cooperativa Fortaleza
+2018/10/12,Molina Punta,a puerta,NULL,30006,30.006,Cooperativa Fortaleza
+2018/10/19,Molina Punta,a puerta,NULL,47125,47.125,Cooperativa Fortaleza
+2018/10/22,Molina Punta,a puerta,NULL,118609,118.609,Cooperativa Fortaleza
+2018/10/26,Molina Punta,a puerta,NULL,31485,31.485,Cooperativa Fortaleza
+2018/11/09,Molina Punta,a puerta,NULL,49675,49.675,Cooperativa Fortaleza
+2018/11/16,Molina Punta,a puerta,NULL,41705,41.705,Cooperativa Fortaleza
+2018/11/22,Molina Punta,a puerta,NULL,8530,8.53,Cooperativa Fortaleza
+2018/11/30,Molina Punta,a puerta,NULL,6825,6.825,Cooperativa Fortaleza
+2018/12/03,Molina Punta,a puerta,NULL,22065,22.065,Cooperativa Fortaleza
+2018/12/07,Molina Punta,a puerta,NULL,37595,37.595,Cooperativa Fortaleza
+2018/12/13,Molina Punta,a puerta,NULL,29675,29.675,Cooperativa Fortaleza
+2018/12/28,Molina Punta,a puerta,NULL,34555,34.555,Cooperativa Fortaleza
+2019/01/04,Molina Punta,a puerta,NULL,24975,24.975,Cooperativa Fortaleza
+2019/01/11,Molina Punta,a puerta,NULL,17290,17.29,Cooperativa Fortaleza
+2019/01/25,Molina Punta,a puerta,NULL,33865,33.865,Cooperativa Fortaleza
+2019/02/01,Molina Punta,a puerta,NULL,18110,18.11,Cooperativa Fortaleza
+2019/02/08,Molina Punta,a puerta,NULL,21620,21.62,Cooperativa Fortaleza
+2019/02/15,Molina Punta,a puerta,NULL,30905,30.905,Cooperativa Fortaleza
+2019/02/18,Molina Punta,a puerta,NULL,34087,34.087,Cooperativa Fortaleza
+2019/02/19,Molina Punta,a puerta,NULL,9075,9.075,Cooperativa Fortaleza
+2019/02/22,Molina Punta,a puerta,NULL,19260,19.26,Cooperativa Fortaleza
+2019/03/01,Molina Punta,a puerta,NULL,33265,33.265,Cooperativa Fortaleza
+2019/03/13,Molina Punta,a puerta,NULL,19864,19.864,Cooperativa Fortaleza
+2019/04/26,Molina Punta,a puerta,NULL,81445,81.445,Cooperativa Fortaleza
+2019/05/01,Molina Punta,a puerta,NULL,19275,19.275,Cooperativa Fortaleza
+2019/05/03,Molina Punta,a puerta,NULL,37411,37.411,Cooperativa Fortaleza
+2019/05/17,Molina Punta,a puerta,NULL,64908,64.908,Cooperativa Fortaleza
+2019/05/18,Molina Punta,a puerta,NULL,43580,43.58,Cooperativa Fortaleza
+2019/05/24,Molina Punta,a puerta,NULL,11425,11.425,Cooperativa Fortaleza
+2019/06/07,Molina Punta,a puerta,NULL,86418,86.418,Cooperativa Fortaleza
+2019/06/08,Molina Punta,a puerta,NULL,23340,23.34,Cooperativa Fortaleza
+2019/06/12,Molina Punta,a puerta,NULL,64695,64.695,Cooperativa Fortaleza
+2019/06/17,Molina Punta,a puerta,NULL,6510,6.51,Cooperativa Fortaleza
+2019/06/26,Molina Punta,a puerta,NULL,3775,3.775,Cooperativa Fortaleza
+2019/07/13,Molina Punta,a puerta,NULL,78805,78.805,Cooperativa Fortaleza
+2019/08/02,Molina Punta,a puerta,NULL,36485,36.485,Cooperativa Fortaleza
+2019/08/04,Molina Punta,a puerta,NULL,29280,29.28,Cooperativa Fortaleza
+2018/10/29,Juan de Vera,a puerta,NULL,39389,39.389,Cooperativa Fortaleza
+2018/11/05,Juan de Vera,a puerta,NULL,16560,16.56,Cooperativa Fortaleza
+2018/11/10,Juan de Vera,a puerta,NULL,19979,19.979,Cooperativa Fortaleza
+2018/11/12,Juan de Vera,a puerta,NULL,25990,25.99,Cooperativa Fortaleza
+2018/11/19,Juan de Vera,a puerta,NULL,47330,47.33,Cooperativa Fortaleza
+2018/11/26,Juan de Vera,a puerta,NULL,40165,40.165,Cooperativa Fortaleza
+2018/12/03,Juan de Vera,a puerta,NULL,17648,17.648,Cooperativa Fortaleza
+2018/12/10,Juan de Vera,a puerta,NULL,57364,57.364,Cooperativa Fortaleza
+2018/12/12,Juan de Vera,a puerta,NULL,85800,85.8,Cooperativa Fortaleza
+2018/12/17,Juan de Vera,a puerta,NULL,36000,36,Cooperativa Fortaleza
+2018/12/24,Juan de Vera,a puerta,NULL,78823,78.823,Cooperativa Fortaleza
+2019/01/14,Juan de Vera,a puerta,NULL,44300,44.3,Cooperativa Fortaleza
+2019/01/21,Juan de Vera,a puerta,NULL,55870,55.87,Cooperativa Fortaleza
+2019/01/28,Juan de Vera,a puerta,NULL,107260,107.26,Cooperativa Fortaleza
+2019/02/03,Juan de Vera,a puerta,NULL,9500,9.5,Cooperativa Fortaleza
+2019/02/04,Juan de Vera,a puerta,NULL,135700,135.7,Cooperativa Fortaleza
+2019/02/08,Juan de Vera,a puerta,NULL,33975,33.975,Cooperativa Fortaleza
+2019/02/18,Juan de Vera,a puerta,NULL,31465,31.465,Cooperativa Fortaleza
+2019/02/22,Juan de Vera,a puerta,NULL,19260,19.26,Cooperativa Fortaleza
+2019/02/25,Juan de Vera,a puerta,NULL,41744.98,41.74498,Cooperativa Fortaleza
+2019/03/20,Juan de Vera,a puerta,NULL,23639,23.639,Cooperativa Fortaleza
+2019/04/08,Juan de Vera,a puerta,NULL,32415,32.415,Cooperativa Fortaleza
+2019/04/15,Juan de Vera,a puerta,NULL,35705,35.705,Cooperativa Fortaleza
+2019/04/25,Juan de Vera,a puerta,NULL,37416,37.416,Cooperativa Fortaleza
+2019/04/29,Juan de Vera,a puerta,NULL,15690,15.69,Cooperativa Fortaleza
+2019/05/13,Juan de Vera,a puerta,NULL,46131,46.131,Cooperativa Fortaleza
+2019/05/27,Juan de Vera,a puerta,NULL,9855,9.855,Cooperativa Fortaleza
+2019/06/03,Juan de Vera,a puerta,NULL,23645,23.645,Cooperativa Fortaleza
+2019/06/10,Juan de Vera,a puerta,NULL,20691,20.691,Cooperativa Fortaleza
+2019/07/01,Juan de Vera,a puerta,NULL,35850,35.85,Cooperativa Fortaleza
+2019/07/06,Juan de Vera,a puerta,NULL,47825,47.825,Cooperativa Fortaleza
+2019/07/15,Juan de Vera,a puerta,NULL,78136,78.136,Cooperativa Fortaleza
+2019/07/22,Juan de Vera,a puerta,NULL,18875,18.875,Cooperativa Fortaleza
+2019/07/29,Juan de Vera,a puerta,NULL,7950,7.95,Cooperativa Fortaleza
+2019/08/03,Juan de Vera,a puerta,NULL,4720,4.72,Cooperativa Fortaleza
+2019/08/05,Juan de Vera,a puerta,NULL,57185,57.185,Cooperativa Fortaleza
+2019/04/26,Molina Punta,a puerta,NULL,31865,31.865,Cooperativa Fortaleza
+2019/07/19,Molina Punta,a puerta,NULL,31825,31.825,Cooperativa Fortaleza
+2019/07/22,Juan de Vera,a puerta,NULL,44860,44.860,Cooperativa Fortaleza
+2019/07/29,Juan de Vera,a puerta,NULL,22360,22.36,Cooperativa Fortaleza
+2019/08/09,Molina Punta,a puerta,NULL,33760,33.76,Cooperativa Fortaleza
+2019/08/12,Juan de Vera,a puerta,NULL,33705,33.7,Cooperativa Fortaleza
+2019/08/19,Juan de Vera,a puerta,NULL,20760,20.76,Cooperativa Fortaleza
+2019/09/02,Juan de Vera,a puerta,NULL,44080,44.08,Cooperativa Fortaleza
+2019/09/06,Molina Punta,a puerta,NULL,46200,46.2,Cooperativa Fortaleza
+2019/09/09,Juan de Vera,a puerta,NULL,19420,19.42,Cooperativa Fortaleza
+2019/09/09,Molina Punta,a puerta,NULL,4960,4.96,Cooperativa Fortaleza
+2019/09/12,Juan de Vera,a puerta,NULL,33205,33.205,Cooperativa Fortaleza
+2019/09/13,Molina Punta,a puerta,NULL,33950,33.95,Cooperativa Fortaleza
+2019/09/16,Juan de Vera,a puerta,NULL,44200,44.2,Cooperativa Fortaleza
+2019/09/19,Juan de Vera,a puerta,NULL,29525,29.525,Cooperativa Fortaleza
+2019/09/20,Molina Punta,a puerta,NULL,17950,17.95,Cooperativa Fortaleza
+2019/09/23,Molina Punta,a puerta,NULL,56370,56.37,Cooperativa Fortaleza
+2019/09/23,Juan de Vera,a puerta,NULL,17695,17.695,Cooperativa Fortaleza
+2019/09/26,Juan de Vera,a puerta,NULL,12570,12.57,Cooperativa Fortaleza
+2019/09/27,Molina Punta,a puerta,NULL,36810,36.81,Cooperativa Fortaleza
+2019/09/30,Molina Punta,a puerta,NULL,51420,51.42,Cooperativa Fortaleza
+2019/10/04,Molina Punta,a puerta,NULL,22410,22.41,Cooperativa Fortaleza
+2019/10/07,Juan de Vera,a puerta,NULL,19657,19.657,Cooperativa Fortaleza
+2019/10/11,Molina Punta,a puerta,NULL,24885,24.885,Cooperativa Fortaleza
+2019/01/25,Delegacion Dr. montaña,rulero,NULL,NULL,6,Cooperativa Fortaleza
+2019/06/19,Delegacion Dr. montaña,rulero,NULL,NULL,22.5,Cooperativa Fortaleza
+2019/06/11,Delegacion Dr. montaña,rulero,NULL,NULL,10.5,Cooperativa Fortaleza
+2019/08/29,Delegacion Dr. montaña,rulero,NULL,NULL,29.085,Cooperativa Fortaleza
+2018/12/07,UNNE - FaCENA,rulero,NULL,NULL,2.21,Cooperativa Fortaleza
+2018/12/28,UNNE - FaCENA,rulero,NULL,NULL,3.61,Cooperativa Fortaleza
+2019/02/15,UNNE - FaCENA,rulero,NULL,NULL,2.14,Cooperativa Fortaleza
+2019/02/08,UNNE - FaCENA,rulero,NULL,NULL,3.11,Cooperativa Fortaleza
+2019/03/01,UNNE - FaCENA,rulero,NULL,NULL,1.735,Cooperativa Fortaleza
+2019/04/12,UNNE - FaCENA,rulero,NULL,NULL,2.66,Cooperativa Fortaleza
+2019/05/24,UNNE - FaCENA,rulero,NULL,NULL,2.7,Cooperativa Fortaleza
+2019/07/19,Delegacion 17 de Agosto,rulero,NULL,NULL,2,Cooperativa Fortaleza
+2019/07/19,Delegacion San Gerónimo,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/07/22,Delegacion 17 de Agosto,rulero,NULL,NULL,3,Cooperativa Fortaleza
+2019/07/22,Delegacion Laguna Seca,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/07/22,Delegacion Dr. montaña,rulero,NULL,NULL,0.5,Cooperativa Fortaleza
+2019/07/22,Delegacion Dr. Nicolini,rulero,NULL,NULL,6,Cooperativa Fortaleza
+2019/07/29,Delegacion 17 de Agosto,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/07/29,Delegacion Laguna Seca,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/07/29,Delegacion Dr. montaña,rulero,NULL,NULL,1.2,Cooperativa Fortaleza
+2019/07/29,Delegacion Dr. Nicolini,rulero,NULL,NULL,2,Cooperativa Fortaleza
+2019/07/29,Delegacion San Martin,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/08/09,Delegacion San Gerónimo,rulero,NULL,NULL,6,Cooperativa Fortaleza
+2019/08/09,UNNE - FaCENA,rulero,NULL,NULL,2.87,Cooperativa Fortaleza
+2019/08/12,Delegacion Laguna Seca,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/08/12,Delegacion San Martin,rulero,NULL,NULL,2,Cooperativa Fortaleza
+2019/08/19,Delegacion Dr. Nicolini,rulero,NULL,NULL,2,Cooperativa Fortaleza
+2019/09/02,Delegacion 17 de Agosto,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/09/02,Delegacion Laguna Seca,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/09/02,Delegacion Dr. montaña,rulero,NULL,NULL,2,Cooperativa Fortaleza
+2019/09/02,Delegacion San Martin,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/09/02,Delegacion Dr. Nicolini,rulero,NULL,NULL,4.5,Cooperativa Fortaleza
+2019/09/06,Delegacion 17 de Agosto,rulero,NULL,NULL,2,Cooperativa Fortaleza
+2019/09/06,Delegacion San Gerónimo,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/09/12,Delegacion Laguna Seca,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/09/12,Delegacion San Martin,rulero,NULL,NULL,2,Cooperativa Fortaleza
+2019/09/13,UNNE - FaCENA,rulero,NULL,NULL,2.8,Cooperativa Fortaleza
+2019/09/19,Delegacion 17 de Agosto,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/09/23,Delegacion San Gerónimo,rulero,NULL,NULL,2,Cooperativa Fortaleza
+2019/09/23,UNNE - FaCENA,rulero,NULL,NULL,2.78,Cooperativa Fortaleza
+2019/09/23,Delegacion 17 de Agosto,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/09/23,Delegacion Laguna Seca,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/09/23,Delegacion Dr. montaña,rulero,NULL,NULL,0.9,Cooperativa Fortaleza
+2019/09/23,Delegacion San Martin,rulero,NULL,NULL,2,Cooperativa Fortaleza
+2019/09/23,Delegacion Dr. Nicolini,rulero,NULL,NULL,6,Cooperativa Fortaleza
+2019/09/26,Delegacion 17 de Agosto,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/09/26,Delegacion Laguna Seca,rulero,NULL,NULL,1.5,Cooperativa Fortaleza
+2019/09/26,Delegacion Dr. montaña,rulero,NULL,NULL,2.5,Cooperativa Fortaleza
+2019/09/26,Delegacion Dr. Nicolini,rulero,NULL,NULL,5,Cooperativa Fortaleza
+2019/09/27,Delegacion 17 de Agosto,rulero,NULL,NULL,2.5,Cooperativa Fortaleza
+2019/09/27,UNNE - FaCENA,rulero,NULL,NULL,4.46,Cooperativa Fortaleza
+2019/09/30,Delegacion Laguna Seca,rulero,NULL,NULL,2.5,Cooperativa Fortaleza
+2019/09/30,Delegacion 17 de Agosto,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/09/30,Delegacion San Gerónimo,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/10/04,Delegacion 17 de Agosto,rulero,NULL,NULL,6,Cooperativa Fortaleza
+2019/10/04,UNNE - FaCENA,rulero,NULL,NULL,1.13,Cooperativa Fortaleza
+2019/10/07,Delegacion 17 de Agosto,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/10/07,Delegacion Laguna Seca,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/10/07,Delegacion Dr. montaña,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/10/07,Delegacion San Martin,rulero,NULL,NULL,1,Cooperativa Fortaleza
+2019/10/07,Delegacion Dr. Nicolini,rulero,NULL,NULL,4,Cooperativa Fortaleza
+2019/09/30,Delegacion 17 de Agosto,rulero,NULL,2500,2.5,Cooperativa Fortaleza
+2019/09/30,Delegacion Laguna Seca,rulero,NULL,2000,2,Cooperativa Fortaleza
+2019/09/30,Delegacion Dr. montaña,rulero,NULL,1000,1,Cooperativa Fortaleza
+2019/09/30,Delegacion San Martin,rulero,NULL,15000,15,Cooperativa Fortaleza
+2019/09/30,Juan de Vera,a puerta,NULL,22625,22.625,Cooperativa Fortaleza
+2019/09/30,Delegacion Dr. Nicolini,rulero,NULL,4000,4,Cooperativa Fortaleza
+2019/10/14,Delegacion 17 de Agosto,rulero,NULL,2500,2.5,Cooperativa Fortaleza
+2019/10/14,Delegacion Dr. Nicolini,rulero,NULL,3500,3.5,Cooperativa Fortaleza
+2019/10/18,UNNE - FaCENA,rulero,NULL,7415,7.415,Cooperativa Fortaleza
+2019/10/18,Molina Punta,a puerta,NULL,430,0.43,Cooperativa Fortaleza
+2019/10/21,Delegacion 17 de Agosto,rulero,NULL,5000,5,Cooperativa Fortaleza
+2019/10/21,Delegacion Dr. montaña,rulero,NULL,2000,2,Cooperativa Fortaleza
+2019/10/21,Delegacion San Martin,rulero,NULL,6000,6,Cooperativa Fortaleza
+2019/10/21,Juan de Vera,a puerta,NULL,28585,28.585,Cooperativa Fortaleza
+2019/10/25,Molina Punta,a puerta,NULL,44745,44.745,Cooperativa Fortaleza
+2019/10/28,Delegacion 17 de Agosto,rulero,NULL,15000,15,Cooperativa Fortaleza
+2019/10/28,Delegacion Laguna Seca,rulero,NULL,1000,1,Cooperativa Fortaleza
+2019/10/28,Delegacion Dr. montaña,rulero,NULL,1200,1.2,Cooperativa Fortaleza
+2019/10/28,Juan de Vera,a puerta,NULL,47665,47.665,Cooperativa Fortaleza
+2019/11/01,UNNE - FaCENA,rulero,NULL,4495,4.495,Cooperativa Fortaleza
+2019/11/01,Molina Punta,a puerta,NULL,8705,8.705,Cooperativa Fortaleza
+2019/11/04,Delegacion 17 de Agosto,rulero,NULL,1500,1.5,Cooperativa Fortaleza
+2019/11/04,Delegacion Laguna Seca,rulero,NULL,1000,1,Cooperativa Fortaleza
+2019/11/04,Delegacion Dr. montaña,rulero,NULL,1000,1,Cooperativa Fortaleza
+2019/11/04,Delegacion Dr. Nicolini,rulero,NULL,2000,2,Cooperativa Fortaleza
+2019/11/11,Delegacion 17 de Agosto,rulero,NULL,1500,1.5,Cooperativa Fortaleza
+2019/11/11,Delegacion Laguna Seca,rulero,NULL,2000,2,Cooperativa Fortaleza
+2019/11/11,Juan de Vera,a puerta,NULL,63080,63.08,Cooperativa Fortaleza
+2019/11/11,Delegacion Dr. Nicolini,rulero,NULL,3500,3.5,Cooperativa Fortaleza
+2019/11/15,UNNE - FaCENA,rulero,NULL,5905,5.905,Cooperativa Fortaleza
+2019/11/15,Molina Punta,a puerta,NULL,83599,83.599,Cooperativa Fortaleza
+2019/11/18,Delegacion 17 de Agosto,rulero,NULL,1500,1.5,Cooperativa Fortaleza
+2019/11/18,Delegacion Dr. Nicolini,rulero,NULL,25000,25,Cooperativa Fortaleza
+2019/11/22,Molina Punta,a puerta,NULL,5650,5.65,Cooperativa Fortaleza
+2019/11/25,Delegacion 17 de Agosto,rulero,NULL,1500,1.5,Cooperativa Fortaleza
+2019/11/25,Delegacion Laguna Seca,rulero,NULL,1700,1.7,Cooperativa Fortaleza
+2019/11/25,Delegacion San Martin,rulero,NULL,2000,2,Cooperativa Fortaleza
+2019/11/25,Delegacion Dr. montaña,rulero,NULL,1000,1,Cooperativa Fortaleza
+2019/11/25,Juan de Vera,a puerta,NULL,68639,68.639,Cooperativa Fortaleza
+2019/11/25,Delegacion Dr. Nicolini,rulero,NULL,5500,5.5,Cooperativa Fortaleza
+2019/11/29,UNNE - FaCENA,rulero,NULL,17050,17.05,Cooperativa Fortaleza
+2019/11/29,Molina Punta,a puerta,NULL,13435,13.435,Cooperativa Fortaleza
+2019/12/02,Delegacion 17 de Agosto,rulero,NULL,10000,10,Cooperativa Fortaleza
+2019/12/02,Delegacion Laguna Seca,rulero,NULL,9000,9,Cooperativa Fortaleza
+2019/12/02,Juan de Vera,a puerta,NULL,43173,43.173,Cooperativa Fortaleza
+2019/12/02,Delegacion Dr. Nicolini,rulero,NULL,6000,6,Cooperativa Fortaleza
+2019/12/06,Molina Punta,a puerta,NULL,33935,33.935,Cooperativa Fortaleza
+2019/12/09,Delegacion 17 de Agosto,rulero,NULL,12000,12,Cooperativa Fortaleza
+2019/12/09,Delegacion Laguna Seca,rulero,NULL,1000,1,Cooperativa Fortaleza
+2019/12/09,Juan de Vera,a puerta,NULL,55765,55.765,Cooperativa Fortaleza
+2019/12/09,Delegacion Dr. Nicolini,rulero,NULL,9000,9,Cooperativa Fortaleza
+2019/12/13,Delegacion San Gerónimo,rulero,NULL,10000,10,Cooperativa Fortaleza
+2019/12/13,Molina Punta,a puerta,NULL,27164,27.164,Cooperativa Fortaleza
+2019/12/16,Delegacion 17 de Agosto,rulero,NULL,12000,12,Cooperativa Fortaleza
+2019/12/16,Delegacion Laguna Seca,rulero,NULL,1000,1,Cooperativa Fortaleza
+2019/12/16,Juan de Vera,a puerta,NULL,29400,29.4,Cooperativa Fortaleza
+2019/12/16,Delegacion Dr. Nicolini,rulero,NULL,1500,1.5,Cooperativa Fortaleza
+2019/12/20,Molina Punta,a puerta,NULL,46800,46.8,Cooperativa Fortaleza
+2019/12/23,Delegacion 17 de Agosto,rulero,NULL,10000,10,Cooperativa Fortaleza
+2019/12/23,Delegacion Laguna Seca,rulero,NULL,9000,9,Cooperativa Fortaleza
+2019/12/23,Delegacion San Martin,rulero,NULL,10000,10,Cooperativa Fortaleza
+2019/12/23,Juan de Vera,a puerta,NULL,73000,73,Cooperativa Fortaleza
+2019/12/23,Delegacion Dr. Nicolini,rulero,NULL,1500,1.5,Cooperativa Fortaleza
+2019/12/27,Delegacion 17 de Agosto,rulero,NULL,8000,8,Cooperativa Fortaleza
+2019/12/27,UNNE - FaCENA,rulero,NULL,2100,2.1,Cooperativa Fortaleza
+2019/12/27,Molina Punta,a puerta,NULL,9200,9.2,Cooperativa Fortaleza
+2019/12/27,Molina Punta,a puerta,NULL,1150,1.15,Cooperativa Fortaleza
+2019/12/30,Juan de Vera,a puerta,NULL,18500,18.5,Cooperativa Fortaleza
+2020/01/03,Molina Punta,a puerta,NULL,53770,53.77,Cooperativa Fortaleza
+2020/01/03,Delegacion San Gerónimo,rulero,NULL,11000,11,Cooperativa Fortaleza
+2020/01/06,Delegacion 17 de Agosto,rulero,NULL,10000,10,Cooperativa Fortaleza
+2020/01/06,Delegacion Laguna Seca,rulero,NULL,6000,6,Cooperativa Fortaleza
+2020/01/06,Juan de Vera,a puerta,NULL,45000,45,Cooperativa Fortaleza
+2020/01/06,Delegacion Dr. Nicolini,rulero,NULL,10000,10,Cooperativa Fortaleza
+2020/01/10,Molina Punta,a puerta,NULL,98250,98.25,Cooperativa Fortaleza
+2020/01/13,Delegacion 17 de Agosto,rulero,NULL,2000,2,Cooperativa Fortaleza
+2020/01/13,Delegacion Laguna Seca,rulero,NULL,8000,8,Cooperativa Fortaleza
+2020/01/13,Juan de Vera,a puerta,NULL,78250,78.25,Cooperativa Fortaleza
+2020/01/13,Delegacion Dr. Nicolini,rulero,NULL,10000,10,Cooperativa Fortaleza
+2020/01/13,Delegacion Dr. montaña,rulero,NULL,5000,5,Cooperativa Fortaleza
+2020/01/17,Molina Punta,a puerta,NULL,121910,121.91,Cooperativa Fortaleza
+2020/01/20,Delegacion 17 de Agosto,rulero,NULL,6000,6,Cooperativa Fortaleza
+2020/01/20,Delegacion Laguna Seca,rulero,NULL,5000,5,Cooperativa Fortaleza
+2020/01/20,Delegacion Dr. Nicolini,rulero,NULL,10000,10,Cooperativa Fortaleza
+2020/01/20,Juan de Vera,a puerta,NULL,124000,124,Cooperativa Fortaleza
+2020/01/20,Delegacion San Martin,rulero,NULL,15000,15,Cooperativa Fortaleza
+2020/01/22,Delegacion 17 de Agosto,rulero,NULL,11500,11.5,Cooperativa Fortaleza
+2020/01/22,Delegacion Laguna Seca,rulero,NULL,10000,10,Cooperativa Fortaleza
+2020/01/22,Juan de Vera,a puerta,NULL,238000,238,Cooperativa Fortaleza
+2020/01/22,Delegacion Dr. Nicolini,rulero,NULL,2000,2,Cooperativa Fortaleza
+2020/01/24,Molina Punta,a puerta,NULL,50000,50,Cooperativa Fortaleza
+2020/01/31,Molina Punta,a puerta,NULL,112400,112.4,Cooperativa Fortaleza
+2020/02/03,Delegacion 17 de Agosto,rulero,NULL,19000,19,Cooperativa Fortaleza
+2020/02/04,Delegacion San Martin,rulero,NULL,238000,238,Cooperativa Fortaleza
+2020/02/04,Juan de Vera,a puerta,NULL,28800,28.8,Cooperativa Fortaleza
+2020/02/04,Delegacion Dr. Nicolini,rulero,NULL,6000,6,Cooperativa Fortaleza
+2020/02/04,Delegacion Dr. montaña,rulero,NULL,8000,8,Cooperativa Fortaleza
+2020/02/07,Delegacion 17 de Agosto,rulero,NULL,18000,18,Cooperativa Fortaleza
+2020/02/07,Molina Punta,a puerta,NULL,99500,99.5,Cooperativa Fortaleza
+2020/02/10,Delegacion Dr. Nicolini,rulero,NULL,11000,11,Cooperativa Fortaleza
+2020/02/17,Delegacion 17 de Agosto,rulero,NULL,15000,15,Cooperativa Fortaleza
+2020/02/17,Delegacion Dr. Nicolini,rulero,NULL,9000,9,Cooperativa Fortaleza
+2020/02/17,Delegacion Laguna Seca,rulero,NULL,20000,20,Cooperativa Fortaleza
+2020/02/17,Juan de Vera,a puerta,NULL,31950,31.95,Cooperativa Fortaleza
+2020/02/17,Delegacion San Martin,rulero,NULL,8000,8,Cooperativa Fortaleza
+2020/02/24,Juan de Vera,a puerta,NULL,67500,67.5,Cooperativa Fortaleza
+2020/02/28,Molina Punta,a puerta,NULL,14280,14.28,Cooperativa Fortaleza
+2020/08/08,Molina Punta,a puerta,NULL,11700,11.7,Cooperativa Fortaleza
+2020/08/09,Juan de Vera,a puerta,NULL,128900,128.9,Cooperativa Fortaleza
+2020/08/14,Molina Punta,a puerta,NULL,22000,22,Cooperativa Fortaleza
+2020/08/21,Molina Punta,a puerta,NULL,14000,14,Cooperativa Fortaleza
+2020/08/23,Juan de Vera,a puerta,NULL,90600,90.6,Cooperativa Fortaleza
+2020/08/30,Juan de Vera,a puerta,NULL,55700,55.7,Cooperativa Fortaleza
+0202/09/06,Juan de Vera,a puerta,NULL,65800,65.8,Cooperativa Fortaleza
+2020/09/11,Molina Punta,a puerta,NULL,5800,5.8,Cooperativa Fortaleza
+2020/09/13,Juan de Vera,a puerta,NULL,127000,127,Cooperativa Fortaleza
